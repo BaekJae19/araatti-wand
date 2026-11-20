@@ -1,0 +1,376 @@
+0.013 #FSR 201  txfail 774
+0.015 #TILT   -1  grav -0.01 +0.02 -0.99
+0.015 #FSR 188  txfail 789
+0.015 #TILT   -1  grav -0.01 +0.02 -0.99
+0.015 #FSR 185  txfail 801
+0.015 #TILT   -2  grav -0.01 +0.02 -0.99
+0.015 #FSR 199  txfail 814
+0.015 #TILT   -1  grav -0.01 +0.02 -0.99
+0.015 #FSR 203  txfail 825
+0.015 #FSR 187  txfail 837
+0.677 #FSR 237  txfail 920
+0.677 #TILT   -1  grav -0.01 +0.02 -0.99
+1.683 #FSR 203  txfail 932
+1.683 #TILT   -1  grav -0.01 +0.02 -0.99
+2.696 #FSR 190  txfail 943
+2.696 #TILT   -1  grav -0.01 +0.02 -0.99
+3.703 #FSR 201  txfail 955
+3.703 #TILT   -1  grav -0.01 +0.02 -0.99
+4.697 #FSR 205  txfail 966
+4.698 #TILT   -1  grav -0.01 +0.02 -0.99
+5.699 #FSR 185  txfail 978
+5.700 #TILT   -1  grav -0.01 +0.02 -0.99
+6.697 #FSR 186  txfail 990
+6.697 #TILT   -1  grav -0.01 +0.02 -0.99
+7.691 #FSR 188  txfail 1002
+7.692 #TILT   -1  grav -0.01 +0.02 -0.99
+8.681 #FSR 185  txfail 1014
+8.681 #TILT   -1  grav -0.01 +0.02 -0.99
+9.686 #FSR 199  txfail 1025
+9.687 #TILT   -1  grav -0.01 +0.02 -0.99
+10.682 #FSR 184  txfail 1037
+10.682 #TILT   -1  grav -0.01 +0.02 -0.99
+11.685 #FSR 181  txfail 1049
+11.686 #TILT   -1  grav -0.01 +0.02 -0.99
+12.710 #FSR 179  txfail 1060
+12.710 #TILT   -1  grav -0.01 +0.02 -0.99
+13.681 #FSR 187  txfail 1073
+13.714 #TILT   -1  grav -0.01 +0.02 -0.99
+14.709 #FSR 185  txfail 1086
+14.709 #TILT   -1  grav -0.01 +0.02 -0.99
+15.700 #FSR 201  txfail 1098
+15.701 #TILT   -2  grav -0.01 +0.02 -0.99
+16.700 #FSR 189  txfail 1110
+16.700 #TILT   -1  grav -0.01 +0.02 -0.99
+17.702 #FSR 204  txfail 1121
+17.702 #TILT   -1  grav -0.01 +0.02 -0.99
+18.681 #FSR 189  txfail 1133
+18.681 #TILT   -1  grav -0.01 +0.02 -0.99
+19.695 #FSR 190  txfail 1144
+19.695 #TILT   -2  grav -0.01 +0.02 -0.99
+20.711 #FSR 180  txfail 1156
+20.711 #TILT   -1  grav -0.01 +0.02 -0.99
+21.702 #FSR 191  txfail 1167
+21.702 #TILT   -2  grav -0.01 +0.02 -0.99
+22.718 #FSR 183  txfail 1179
+22.719 #TILT   -1  grav -0.01 +0.02 -0.99
+23.689 #FSR 188  txfail 1191
+23.689 #TILT   -1  grav -0.01 +0.02 -0.99
+24.698 #FSR 191  txfail 1202
+24.698 #TILT   -1  grav -0.01 +0.02 -0.99
+25.685 #FSR 199  txfail 1214
+25.685 #TILT   -1  grav -0.01 +0.02 -0.99
+26.690 #FSR 203  txfail 1226
+26.691 #TILT    0  grav -0.01 +0.02 -0.99
+27.691 #FSR 227  txfail 1239
+27.692 #TILT   -1  grav -0.01 +0.02 -0.99
+28.683 #FSR 189  txfail 1253
+28.684 #TILT   -1  grav -0.01 +0.02 -0.99
+29.683 #FSR 201  txfail 1265
+29.683 #TILT   -1  grav -0.01 +0.02 -0.99
+30.713 #FSR 181  txfail 1276
+30.723 #TILT   -1  grav -0.01 +0.02 -0.99
+31.694 #FSR 190  txfail 1287
+31.694 #TILT   -1  grav -0.01 +0.02 -0.99
+32.686 #FSR 204  txfail 1298
+32.686 #TILT   -1  grav -0.01 +0.02 -0.99
+33.708 #FSR 175  txfail 1309
+33.708 #TILT   -1  grav -0.01 +0.02 -0.99
+34.705 #FSR 173  txfail 1320
+34.705 #TILT   -1  grav -0.01 +0.02 -0.99
+35.710 #FSR 173  txfail 1331
+35.710 #TILT   -1  grav -0.01 +0.02 -0.99
+36.713 #FSR 187  txfail 1341
+36.713 #TILT   -1  grav -0.01 +0.02 -0.99
+37.698 #FSR 189  txfail 1352
+37.698 #TILT   -2  grav -0.01 +0.02 -0.99
+38.716 #FSR 189  txfail 1363
+38.716 #TILT   -1  grav -0.01 +0.02 -0.99
+39.706 #FSR 189  txfail 1374
+39.706 #TILT   -1  grav -0.01 +0.02 -0.99
+40.706 #FSR 186  txfail 1385
+40.706 #TILT   -2  grav -0.01 +0.02 -0.99
+41.714 #FSR 171  txfail 1396
+41.714 #TILT   -1  grav -0.01 +0.02 -0.99
+42.710 #FSR 183  txfail 1406
+42.710 #TILT   -2  grav -0.01 +0.02 -0.99
+43.709 #FSR 185  txfail 1417
+43.709 #TILT   -1  grav -0.01 +0.02 -0.99
+44.708 #FSR 187  txfail 1428
+44.708 #TILT   -1  grav -0.01 +0.02 -0.99
+45.704 #FSR 185  txfail 1441
+45.713 #TILT   -1  grav -0.01 +0.02 -0.99
+46.714 #FSR 186  txfail 1453
+46.714 #TILT   -1  grav -0.01 +0.02 -0.99
+47.704 #FSR 182  txfail 1466
+47.704 #TILT   -1  grav -0.01 +0.02 -0.99
+48.719 #FSR 184  txfail 1478
+48.719 #TILT   -1  grav -0.01 +0.02 -0.99
+49.715 #FSR 221  txfail 1491
+49.715 #TILT   10  grav -0.00 +0.03 -0.99
+50.351 #MOTION drop        X 244 Y  60 Z  86  acc 0.52  lin +0.47 -0.27 +0.43
+50.702 #FSR 186  txfail 1502
+50.703 #TILT   46  grav +0.13 -0.44 -0.86
+50.944 #MOTION drop        X 241 Y 181 Z  75  acc 0.41  lin -0.33 +0.32 +0.16
+51.233 #MOTION drop        X  67 Y 146 Z  32  acc 0.34  lin -0.28 +0.26 +0.05
+51.684 #MOTION drop        X  94 Y 289 Z  76  acc 1.15  lin -0.33 +0.47 -1.06
+51.719 #FSR 209  txfail 1513
+51.719 #TILT    3  grav -0.19 -0.00 -1.16
+52.157 #MOTION Vertical    209ms 만에 발동  Y 354 Z 300  count 1
+52.159 #MOTION 끝 222ms   13ms 앞당김  창 전체로는 Vertical   같음  X 111 Y 383 Z 303
+52.696 #FSR 159  txfail 1524
+52.696 #TILT  -20  grav -0.12 +0.24 -1.15
+53.011 #MOTION drop        X  33 Y 292 Z  98  acc 0.62  lin +0.26 -0.48 -0.50
+53.469 #MOTION drop        X  51 Y 275 Z  50  acc 1.35  lin -0.71 -0.66 +1.26
+53.696 #FSR 155  txfail 1535
+53.696 #TILT  -17  grav -0.17 +0.16 -0.54
+53.876 #MOTION drop        X 109 Y 215 Z  44  acc 1.95  lin +0.37 +0.25 -1.94
+54.202 #MOTION drop        X 154 Y  84 Z  62  acc 0.77  lin +0.23 +0.38 +0.71
+54.581 #MOTION Vertical    152ms 만에 발동  Y 351 Z 220  count 2
+54.678 #MOTION 끝 221ms   69ms 앞당김  창 전체로는 Vertical   같음  X 170 Y 389 Z 220
+54.711 #FSR 133  txfail 1546
+54.711 #TILT  127  grav +0.19 +0.21 -1.04
+55.151 #MOTION drop        X  29 Y 156 Z  10  acc 0.79  lin -0.31 -0.08 +0.74
+55.404 #MOTION Vertical     32ms 만에 발동  Y 354 Z  84  count 3
+55.589 #MOTION 끝 201ms  169ms 앞당김  창 전체로는 Vertical   같음  X 196 Y 400 Z 110
+55.717 #FSR 165  txfail 1558
+55.717 #TILT   -9  grav +0.11 +0.09 -0.99
+56.070 #MOTION drop        X 176 Y 345 Z  93  acc 1.02  lin +0.34 -0.50 -0.97
+56.535 #MOTION drop        X  44 Y  83 Z  44  acc 0.71  lin +0.44 +0.15 +0.59
+56.718 #FSR 150  txfail 1570
+56.718 #TILT    7  grav +0.41 +0.04 -0.30
+56.877 #MOTION Vertical     79ms 만에 발동  Y 353 Z 144  count 4
+56.972 #MOTION 끝 205ms  126ms 앞당김  창 전체로는 Vertical   같음  X 141 Y 422 Z 194
+57.626 #MOTION Thrust      221ms  X  62 Y 257 Z  59  acc 0.60  lin +0.60 -0.21 +0.52  count 5
+57.721 #FSR 133  txfail 1582
+57.721 #TILT    0  grav +0.49 -0.23 -0.96
+58.101 #MOTION drop        X  23 Y  86 Z  44  acc 0.85  lin +0.20 +0.25 +0.81
+58.452 #MOTION Vertical     99ms 만에 발동  Y 357 Z 308  count 6
+58.579 #MOTION 끝 221ms  122ms 앞당김  창 전체로는 Vertical   같음  X 177 Y 389 Z 317
+58.707 #FSR 167  txfail 1594
+58.707 #TILT   22  grav +0.52 -0.26 -0.79
+59.202 #MOTION drop        X  58 Y 260 Z  72  acc 0.78  lin +0.47 +0.15 -0.77
+59.647 #MOTION drop        X  52 Y  59 Z  28  acc 0.81  lin +0.13 +0.23 +0.78
+59.711 #FSR 205  txfail 1607
+59.712 #TILT  -83  grav +0.50 -0.00 -0.16
+59.982 #MOTION Vertical     81ms 만에 발동  Y 372 Z  86  count 7
+60.114 #MOTION 끝 221ms  140ms 앞당김  창 전체로는 Vertical   같음  X 410 Y 684 Z 211
+60.656 #MOTION drop        X  56 Y 290 Z  38  acc 0.65  lin +0.46 -0.29 -0.63
+60.720 #FSR 169  txfail 1617
+60.720 #TILT    7  grav +0.22 -0.08 -1.31
+61.134 #MOTION drop        X  17 Y 102 Z  17  acc 0.96  lin +0.37 +0.18 +0.91
+61.612 #MOTION drop        X 293 Y 349 Z 144  acc 2.97  lin +2.09 -0.97 -2.43
+61.709 #FSR 183  txfail 1629
+61.709 #TILT   14  grav +0.38 -0.12 -0.92
+62.155 #MOTION drop        X  65 Y 268 Z  35  acc 0.74  lin -0.40 -0.10 +0.68
+62.638 #MOTION drop        X  25 Y 153 Z  36  acc 0.94  lin -0.43 +0.25 +0.89
+62.701 #FSR 205  txfail 1641
+62.702 #TILT  -25  grav +0.31 +0.08 +0.02
+62.926 #MOTION Vertical     28ms 만에 발동  Y 376 Z 256  count 8
+63.119 #MOTION 끝 221ms  193ms 앞당김  창 전체로는 Vertical   같음  X 571 Y 569 Z 284
+63.567 #MOTION drop        X  67 Y 256 Z  70  acc 0.89  lin +0.47 -0.23 -0.76
+63.727 #FSR 146  txfail 1652
+63.727 #TILT -127  grav +0.39 -0.19 -0.87
+64.012 #MOTION drop        X  25 Y 109 Z  45  acc 1.00  lin +0.18 +0.27 +0.97
+64.331 #MOTION Vertical     79ms 만에 발동  Y 362 Z 316  count 9
+64.492 #MOTION 끝 221ms  142ms 앞당김  창 전체로는 Vertical   같음  X 209 Y 489 Z 349
+64.714 #FSR 181  txfail 1663
+64.714 #TILT   18  grav +0.40 -0.36 -0.89
+65.720 #FSR 169  txfail 1674
+65.720 #TILT   22  grav +0.24 -0.26 -0.93
+66.694 #MOTION drop        X 307 Y  93 Z  93  acc 0.81  lin +0.36 -0.74 +0.33
+66.725 #FSR 167  txfail 1684
+66.725 #TILT   -8  grav +0.25 -0.11 -0.93
+67.012 #MOTION drop        X  73 Y 190 Z  75  acc 0.22  lin -0.19 -0.10 +0.10
+67.716 #FSR 177  txfail 1695
+67.716 #TILT    7  grav -0.01 -0.07 -0.98
+67.909 #MOTION drop        X 161 Y  13 Z   9  acc 0.32  lin -0.05 -0.31 +0.05
+68.723 #FSR 167  txfail 1704
+68.724 #TILT  -18  grav -0.00 +0.00 -0.99
+68.852 #MOTION drop        X  48 Y 112 Z 349  acc 0.73  lin -0.49 -0.54 +0.36
+69.418 #MOTION Horizontal  103ms 만에 발동  Y  87 Z 354  count 10
+69.525 #MOTION 끝 221ms  118ms 앞당김  창 전체로는 Horizontal 같음  X 118 Y  87 Z 778
+69.718 #FSR 151  txfail 1716
+69.718 #TILT  -49  grav -0.76 +0.39 -0.88
+70.260 #MOTION Horizontal  150ms 만에 발동  Y 107 Z 351  count 11
+70.325 #MOTION 끝 222ms   72ms 앞당김  창 전체로는 Horizontal 같음  X  75 Y 107 Z 360
+70.709 #FSR 174  txfail 1728
+70.709 #TILT   25  grav -0.24 -0.23 -0.97
+70.964 #MOTION Horizontal  100ms 만에 발동  Y  57 Z 354  count 12
+71.076 #MOTION 끝 222ms  122ms 앞당김  창 전체로는 Horizontal 같음  X 126 Y  90 Z1104
+71.731 #FSR 189  txfail 1741
+71.731 #TILT  -27  grav -0.33 +0.48 -0.95
+71.830 #MOTION drop        X  86 Y  45 Z 299  acc 0.44  lin +0.22 -0.39 +0.21
+72.324 #MOTION Thrust      221ms  X  24 Y  60 Z 143  acc 1.29  lin -1.08 -0.72 +0.18  count 13
+72.710 #FSR 151  txfail 1753
+72.710 #TILT  -44  grav -0.89 +0.65 -0.92
+72.805 #MOTION drop        X  57 Y  66 Z 287  acc 1.46  lin +0.75 +1.20 +0.39
+73.171 #MOTION Horizontal  131ms 만에 발동  Y  88 Z 354  count 14
+73.266 #MOTION 끝 221ms   90ms 앞당김  창 전체로는 Horizontal 같음  X  89 Y  88 Z 458
+73.714 #FSR 147  txfail 1764
+73.714 #TILT   67  grav -0.66 -0.38 -0.95
+73.746 #MOTION Horizontal   82ms 만에 발동  Y  85 Z 352  count 15
+73.906 #MOTION 끝 221ms  139ms 앞당김  창 전체로는 Horizontal 같음  X  62 Y  85 Z 881
+74.368 #MOTION Thrust      222ms  X  30 Y  30 Z 182  acc 0.86  lin +0.81 -0.46 -0.18  count 16
+74.622 #MOTION Horizontal    1ms 만에 발동  Y   4 Z 403  count 17
+74.718 #FSR 149  txfail 1776
+74.718 #TILT   36  grav -0.54 +0.37 -0.94
+74.847 #MOTION 끝 221ms  220ms 앞당김  창 전체로는 Horizontal 같음  X  37 Y  39 Z 486
+75.163 #MOTION Horizontal   67ms 만에 발동  Y  70 Z 353  count 18
+75.306 #MOTION 끝 221ms  154ms 앞당김  창 전체로는 Horizontal 같음  X  38 Y  86 Z 604
+75.723 #FSR 169  txfail 1788
+75.723 #TILT  -40  grav -0.39 +0.57 -0.96
+75.852 #MOTION drop        X  65 Y  26 Z 167  acc 0.49  lin +0.09 -0.49 +0.06
+76.107 #MOTION Horizontal    2ms 만에 발동  Y  38 Z 441  count 19
+76.331 #MOTION 끝 221ms  219ms 앞당김  창 전체로는 Horizontal 같음  X  77 Y  55 Z 455
+76.603 #MOTION Horizontal   19ms 만에 발동  Y  64 Z 351  count 20
+76.729 #FSR 141  txfail 1799
+76.730 #TILT  -70  grav -0.75 -0.16 -0.97
+76.793 #MOTION 끝 221ms  202ms 앞당김  창 전체로는 Horizontal 같음  X  91 Y 125 Z 570
+77.304 #MOTION drop        X  43 Y  93 Z 197  acc 0.62  lin +0.26 -0.40 -0.55
+77.721 #FSR 155  txfail 1810
+77.721 #TILT   73  grav -0.48 -0.27 -0.88
+77.751 #MOTION drop        X  47 Y  26 Z 348  acc 1.02  lin -0.37 -0.98 +0.30
+78.007 #MOTION Horizontal    2ms 만에 발동  Y  26 Z 705  count 21
+78.230 #MOTION 끝 221ms  219ms 앞당김  창 전체로는 Horizontal 같음  X 153 Y 225 Z 822
+78.679 #MOTION Horizontal  211ms 만에 발동  Y  51 Z 351  count 22
+78.712 #MOTION 끝 221ms   10ms 앞당김  창 전체로는 Horizontal 같음  X  57 Y  62 Z 356
+78.712 #FSR 171  txfail 1823
+78.712 #TILT   20  grav -0.63 +0.35 -1.07
+79.079 #MOTION drop        X  39 Y  25 Z 106  acc 0.94  lin +0.20 -0.87 +0.41
+79.336 #MOTION Horizontal    2ms 만에 발동  Y  30 Z 528  count 23
+79.545 #MOTION 끝 222ms  220ms 앞당김  창 전체로는 Horizontal 같음  X  74 Y  76 Z 756
+79.734 #FSR 137  txfail 1835
+79.734 #TILT  -39  grav -0.68 +0.48 -0.96
+80.021 #MOTION drop        X  30 Y  22 Z 284  acc 0.41  lin +0.19 -0.32 -0.27
+80.407 #MOTION drop        X  30 Y  23 Z 304  acc 0.76  lin +0.17 -0.75 +0.17
+80.661 #MOTION Horizontal    1ms 만에 발동  Y  37 Z 409  count 24
+80.726 #FSR 147  txfail 1846
+80.726 #TILT  -12  grav -0.75 -0.35 -1.01
+80.885 #MOTION 끝 222ms  221ms 앞당김  창 전체로는 Horizontal 같음  X 157 Y 133 Z 797
+81.376 #MOTION drop        X  60 Y  27 Z 282  acc 0.61  lin +0.27 -0.58 -0.38
+81.621 #MOTION Horizontal    2ms 만에 발동  Y  14 Z 414  count 25
+81.716 #FSR 166  txfail 1859
+81.717 #TILT   83  grav -0.55 -0.21 -0.89
+81.814 #MOTION 끝 201ms  199ms 앞당김  창 전체로는 Horizontal 같음  X  87 Y  25 Z 414
+82.069 #MOTION Horizontal    1ms 만에 발동  Y  95 Z 716  count 26
+82.292 #MOTION 끝 221ms  220ms 앞당김  창 전체로는 Horizontal 같음  X 121 Y 100 Z 805
+82.706 #FSR 167  txfail 1872
+82.739 #TILT   11  grav -0.34 +0.24 -0.94
+82.770 #MOTION drop        X  35 Y  16 Z 200  acc 0.56  lin +0.41 -0.44 -0.14
+83.713 #FSR 189  txfail 1882
+83.713 #TILT   -7  grav +0.09 +0.01 -0.97
+84.709 #FSR 200  txfail 1893
+84.709 #TILT   -7  grav +0.07 +0.07 -0.99
+85.731 #FSR 207  txfail 1905
+85.731 #TILT   -7  grav +0.06 +0.07 -0.99
+86.735 #FSR 159  txfail 1915
+86.735 #TILT   -3  grav +0.06 +0.06 -0.99
+87.743 #FSR 191  txfail 1927
+87.743 #TILT   -4  grav +0.05 +0.06 -0.99
+88.717 #FSR 158  txfail 1937
+88.717 #TILT   -8  grav +0.05 +0.09 -0.99
+89.741 #FSR 136  txfail 1947
+89.741 #TILT  -25  grav +0.35 -0.14 -1.03
+89.871 #MOTION Thrust      221ms  X  97 Y  84 Z  83  acc 1.24  lin -1.05 +0.60 +0.54  count 27
+90.654 #MOTION Thrust      221ms  X  85 Y  29 Z  47  acc 0.63  lin +0.61 -0.39 -0.37  count 28
+90.719 #FSR 147  txfail 1960
+90.719 #TILT   11  grav +0.13 +0.02 -1.02
+91.441 #MOTION Thrust      211ms  X 166 Y  83 Z 104  acc 1.07  lin -1.02 +0.62 +0.25  count 29
+91.724 #FSR 149  txfail 1972
+91.724 #TILT  -28  grav -0.41 +0.19 -0.91
+92.062 #MOTION Thrust      222ms  X  68 Y  35 Z  88  acc 0.70  lin +0.69 -0.18 -0.20  count 30
+92.735 #FSR 151  txfail 1983
+92.735 #TILT  -18  grav -0.14 +0.15 -0.88
+92.766 #MOTION Thrust      221ms  X 161 Y 142 Z  95  acc 1.42  lin -1.31 +0.59 -0.53  count 31
+93.406 #MOTION Thrust      221ms  X  75 Y  58 Z  80  acc 0.63  lin +0.62 -0.29 -0.29  count 32
+93.727 #FSR 167  txfail 1995
+93.727 #TILT    2  grav +0.38 +0.03 -1.09
+94.030 #MOTION Thrust      221ms  X 194 Y 132 Z 124  acc 1.62  lin -1.53 +0.56 +0.63  count 33
+94.735 #FSR 159  txfail 2006
+94.736 #TILT   -2  grav +0.18 +0.07 -1.01
+94.736 #MOTION drop        X  93 Y  46 Z  85  acc 0.80  lin +0.63 -0.41 -0.71
+95.200 #MOTION Thrust      222ms  X 217 Y 103 Z 157  acc 1.92  lin -1.81 +0.65 +0.59  count 34
+95.741 #FSR 168  txfail 2019
+95.742 #TILT   12  grav +0.07 +0.14 -0.92
+95.871 #MOTION Thrust      144ms  X  31 Y  42 Z  19  acc 0.66  lin +0.54 -0.29 -0.46  count 35
+96.398 #MOTION Thrust      175ms  X 253 Y 119 Z 225  acc 2.01  lin -1.95 +0.70 -0.47  count 36
+96.718 #FSR 183  txfail 2031
+96.718 #TILT    9  grav -0.20 +0.20 -0.87
+97.136 #MOTION Thrust      222ms  X  88 Y  86 Z  59  acc 0.90  lin +0.81 -0.41 -0.41  count 37
+97.582 #MOTION Thrust      180ms  X  88 Y 140 Z 162  acc 1.19  lin -0.77 +0.73 -0.71  count 38
+97.742 #FSR 153  txfail 2044
+97.742 #TILT    9  grav -0.28 +0.12 -0.88
+98.044 #MOTION Thrust      188ms  X  31 Y  50 Z  48  acc 0.73  lin +0.64 -0.24 -0.48  count 39
+98.507 #MOTION Thrust      222ms  X 177 Y 202 Z 148  acc 2.29  lin -2.13 +0.80 -0.88  count 40
+98.730 #FSR 137  txfail 2057
+98.730 #TILT  -11  grav -0.29 +0.25 -0.87
+99.053 #MOTION Thrust      222ms  X 110 Y  48 Z  79  acc 0.81  lin +0.77 -0.42 -0.36  count 41
+99.500 #MOTION Thrust      221ms  X 162 Y 115 Z 162  acc 2.25  lin -2.16 +0.85 +0.55  count 42
+99.724 #FSR 149  txfail 2069
+99.724 #TILT  -18  grav -0.27 +0.32 -0.83
+100.041 #MOTION Thrust      221ms  X 116 Y  49 Z  84  acc 0.80  lin +0.68 -0.50 -0.55  count 43
+100.518 #MOTION Thrust      222ms  X 312 Y 173 Z 189  acc 3.25  lin -2.91 +1.38 -1.59  count 44
+100.727 #FSR 164  txfail 2082
+100.728 #TILT    3  grav -0.05 +0.23 -0.89
+101.735 #FSR 168  txfail 2093
+101.735 #TILT  -13  grav +0.08 +0.12 -0.98
+102.728 #FSR 137  txfail 2102
+102.729 #TILT  -34  grav +0.09 +0.20 -0.98
+103.722 #FSR 157  txfail 2112
+103.723 #TILT  -16  grav +0.02 +0.22 -1.05
+104.743 #FSR 182  txfail 2123
+104.744 #TILT  -16  grav +0.11 +0.13 -0.94
+105.191 #MOTION drop        X 288 Y 149 Z  80  acc 2.67  lin -0.74 +1.72 -2.50
+105.479 #MOTION Thrust        7ms  X  73 Y  44 Z  26  acc 2.48  lin -2.42 +0.19 -0.51  count 45
+105.739 #FSR 173  txfail 2138
+105.739 #TILT    7  grav +0.02 +0.07 -0.98
+105.827 #MOTION drop        X   5 Y   5 Z  18  acc 0.73  lin -0.13 -0.05 +0.72
+106.758 #FSR 167  txfail 2149
+106.759 #TILT   -1  grav -0.00 +0.03 -0.99
+107.743 #FSR 175  txfail 2162
+107.744 #TILT   -1  grav -0.01 +0.02 -0.99
+108.750 #FSR 171  txfail 2174
+108.750 #TILT   -2  grav -0.01 +0.02 -0.99
+109.732 #FSR 176  txfail 2187
+109.732 #TILT   -2  grav -0.01 +0.02 -0.99
+110.746 #FSR 163  txfail 2200
+110.746 #TILT   -2  grav -0.01 +0.02 -0.99
+111.726 #FSR 175  txfail 2211
+111.726 #TILT   -2  grav -0.01 +0.02 -0.99
+112.732 #FSR 176  txfail 2223
+112.733 #TILT   -1  grav -0.01 +0.02 -0.99
+113.748 #FSR 167  txfail 2236
+113.748 #TILT   -2  grav -0.01 +0.02 -0.99
+114.754 #FSR 175  txfail 2247
+114.754 #TILT   -2  grav -0.01 +0.02 -0.99
+115.748 #FSR 168  txfail 2260
+115.748 #TILT   -1  grav -0.01 +0.02 -0.99
+116.724 #FSR 167  txfail 2272
+116.724 #TILT   -2  grav -0.01 +0.02 -0.99
+117.721 #FSR 182  txfail 2285
+117.721 #TILT   -1  grav -0.01 +0.02 -0.99
+118.727 #FSR 173  txfail 2296
+118.727 #TILT   -2  grav -0.01 +0.02 -0.99
+119.728 #FSR 178  txfail 2309
+119.728 #TILT   -1  grav -0.01 +0.02 -0.99
+120.728 #FSR 171  txfail 2321
+120.729 #TILT   -1  grav -0.01 +0.02 -0.99
+121.741 #FSR 172  txfail 2333
+121.742 #TILT   -2  grav -0.01 +0.02 -0.99
+122.725 #FSR 176  txfail 2345
+122.726 #TILT   -2  grav -0.01 +0.02 -0.99
+123.749 #FSR 198  txfail 2356
+123.749 #TILT   -2  grav -0.01 +0.03 -0.99
+124.752 #FSR 175  txfail 2368
+124.752 #TILT   -1  grav -0.01 +0.02 -0.99
+125.730 #FSR 172  txfail 2380
+125.730 #TILT   -2  grav -0.01 +0.02 -0.99
+126.724 #FSR 168  txfail 2391
+126.725 #TILT   -1  grav -0.01 +0.02 -0.99
+127.739 #FSR 165  txfail 2403
+127.739 #TILT   -1  grav -0.01 +0.02 -0.99
+128.726 #FSR 179  txfail 2414
+128.726 #TILT   -1  grav -0.01 +0.02 -0.99
+129.724 #FSR 165  txfail 2426
+129.725 #TILT   -2  grav -0.01 +0.02 -0.99
