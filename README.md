@@ -58,6 +58,7 @@ Unity  IotPlayerController  ──▶  로비 · 낚시 · 미니게임 3종
 | [KEY_MAPPING.md](unity/UnderTheSea/Assets/Game/Scripts/IoT/KEY_MAPPING.md) | 콘텐츠별 키 배치표 |
 | [exec/05_IoT완드.md](exec/05_IoT완드.md) | 포팅 매뉴얼 IoT 편: 부품, 배선, 굽는 법 |
 | [case](case) | 케이스 최종 Blender 파일, 출력용 STL 4개, 렌더·정투상·치수도 |
+| [case/history](case/history) | Meshy 초기안과 파라메트릭 v4의 Blender·STL, 주요 설계 변경 이력 (Git LFS) |
 
 ![완드 분해도](case/images/04_분해도.png)
 

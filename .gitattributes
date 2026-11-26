@@ -1,0 +1,2 @@
+case/history/**/*.blend filter=lfs diff=lfs merge=lfs -text
+case/history/**/*.stl filter=lfs diff=lfs merge=lfs -text
